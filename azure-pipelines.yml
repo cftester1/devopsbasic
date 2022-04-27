@@ -1,3 +1,4 @@
+pool: test
 jobs:
 - job: Linux
   pool:
